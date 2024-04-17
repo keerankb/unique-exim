@@ -1,6 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: Anyar
-Template URL: https://bootstrapmade.com/anyar-free-multipurpose-one-page-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Project Name: Unique Exim 
+Author: Keyrun kb
+Medium URL : https://medium.com/@workingwithkiranz
+Hashnode URL : https://keyran-kb.hashnode.dev/
