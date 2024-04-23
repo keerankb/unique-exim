@@ -14,7 +14,7 @@
       
       if( ! action ) {
         // displayError(thisForm, 'The form action property is not set!');
-        displayError(thisForm, 'Submitted Successfully');
+        displayError(thisForm, 'Redirecting to mail...');
         return;
       }
       thisForm.querySelector('.loading').classList.add('d-block');
